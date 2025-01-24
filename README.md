@@ -3,7 +3,7 @@ This project uses deep learning to classify waste as Organic or Recyclable. A CN
 ## Dataset
 The dataset is too large to include in the repository.  
 Download it from [Google Drive](https://drive.google.com/file/d/1nQmRpsPgaX-H5B5Ov7CaxPLeqH-9WoZR/view?usp=sharing).  
-After downloading, place the files in the following structure:
+The dataset comes as a ZIP file. After downloading and extracting the ZIP file, place the files in the following structure:
 dataset/
 ├── TRAIN/
 ├── TEST/
